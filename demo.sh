@@ -1,12 +1,12 @@
 #!/bin/bash
 
 # apollo config db info
-apollo_config_db_url=jdbc:mysql://localhost:3306/ApolloConfigDB?characterEncoding=utf8
+apollo_config_db_url=jdbc:mysql://127.0.0.1:13306/ApolloConfigDB?characterEncoding=utf8
 apollo_config_db_username=root
 apollo_config_db_password=
 
 # apollo portal db info
-apollo_portal_db_url=jdbc:mysql://localhost:3306/ApolloPortalDB?characterEncoding=utf8
+apollo_portal_db_url=jdbc:mysql://127.0.0.1:13306/ApolloPortalDB?characterEncoding=utf8
 apollo_portal_db_username=root
 apollo_portal_db_password=
 
